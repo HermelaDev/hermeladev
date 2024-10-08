@@ -1,7 +1,7 @@
 ## Hey there! I'm Hermela! 👋
 
 ### 😎 About Me
-🎓 I'm a **Data Science and Analytics Student** focused on exploring **data visualization**, **AI**, and **data analysis**. With a background in **programming** and a deep interest in understanding data trends, I strive to create impactful insights through my work.
+🎓 I'm a **Data Science and Analytics** student focused on exploring **data visualization**, **AI**, and **data analysis**. With a background in **programming** and a deep interest in understanding data trends, I strive to create impactful insights through my work.
 
 💻 In my free time, I enjoy diving into **web development** projects to expand my technical skills even further.
 
